@@ -1,0 +1,13 @@
+MINI REGALO — 19 MESES
+
+Contenido:
+- index.html
+- ramo-tulipanes-azules.png
+
+Para publicarlo en GitHub Pages:
+1. Descomprime este ZIP.
+2. Sube index.html y ramo-tulipanes-azules.png juntos a la raíz de un repositorio.
+3. En Settings > Pages, selecciona Deploy from a branch, branch main y folder /(root).
+4. Abre la URL que GitHub Pages te proporcione.
+
+La página no requiere interacción: abre directamente con la felicitación y el ramo.
